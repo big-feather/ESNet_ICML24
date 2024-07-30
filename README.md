@@ -73,7 +73,12 @@ python eval_MAEBD.py
 
 ## Bibtex
 ```
-   Coming soon...
+@inproceedings{liu2024esnet,
+  title={ESNet: Evolution and Succession Network for High-Resolution Salient Object Detection},
+  author={Hongyu Liu and Runmin Cong and Hua Li and Qianqian Xu and Qingming Huang and Wei Zhang},
+  booktitle={ICML},
+  year={2024}
+}
 ```
 ## Contact Us
 If you have any questions, please contact Runmin Cong at [rmcong@sdu.edu.cn](mailto:rmcong@sdu.edu.cn) or Hongyu Liu at [liu.hongyu@bjtu.edu.cn](mailto:liu.hongyu@bjtu.edu.cn).
