@@ -24,7 +24,7 @@ We also provide requirement file for environment configuration, and you can use 
 
 Please follow the tips to download the processed datasets and pre-trained models:
 
-Download HR/NRSOD dataset from [[Link](https://pan.baidu.com/s/1SDwGH6yUQ_yMGAv6ndR07A?pwd=mvpl)], code: mvpl.
+Download HR/NRSOD dataset from [[Link](https://pan.baidu.com/s/17HKzRk_Dw3P2Ojvl3D9SWw?pwd=mvpl)], code: mvpl.
 
 The pretrained backbones can be download here: [[Link](https://pan.baidu.com/s/1Nmd9h-LWV2WCxftYbQmy8g?pwd=mvpl)], code: mvpl.
 
